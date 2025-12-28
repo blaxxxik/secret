@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             <span>📢</span>
                         </div>
                         <div class="link-content">
-                            <input type="text" class="link-input" placeholder="Введите ссылку Telegram" value="https://t.me/yourchannel">
-                            <button class="go-btn" data-link="https://t.me/yourchannel">Перейти</button>
+                            <input type="text" class="link-input" placeholder="Telegram" value="https://t.me/@erineum">
+                            <button class="go-btn" data-link="https://t.me/@erineum">Перейти</button>
                         </div>
                     </div>
                     
@@ -33,18 +33,18 @@ document.addEventListener('DOMContentLoaded', function() {
                             <span>💬</span>
                         </div>
                         <div class="link-content">
-                            <input type="text" class="link-input" placeholder="Введите ссылку Discord" value="https://discord.gg/yourinvite">
-                            <button class="go-btn" data-link="https://discord.gg/yourinvite">Перейти</button>
+                            <input type="text" class="link-input" placeholder="Discord" value="biodiesels">
+                            <button class="go-btn" data-link="biodiesels">Перейти</button>
                         </div>
                     </div>
                     
-                    <div class="link-item" data-link="https://github.com/yourusername">
+                    <div class="link-item" data-link="https://github.com/blaxxik">
                         <div class="link-icon" style="background: #333;">
                             <span>💻</span>
                         </div>
                         <div class="link-content">
-                            <input type="text" class="link-input" placeholder="Введите ссылку GitHub" value="https://github.com/yourusername">
-                            <button class="go-btn" data-link="https://github.com/yourusername">Перейти</button>
+                            <input type="text" class="link-input" placeholder="GitHub" value="https://github.com/blaxxik">
+                            <button class="go-btn" data-link="https://github.com/blaxxik">Перейти</button>
                         </div>
                     </div>
                     
